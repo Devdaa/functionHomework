@@ -127,4 +127,4 @@ function addNumber(){
     return sum;
 }
 
-console.log(addNumber(10,45,34,130))
+console.log(addNumber(10,45,34,130));
